@@ -1,0 +1,40 @@
+.first {
+	background-color: #0C76B5;
+	height:50px;
+}
+.second  {
+	background-color: #273040;
+	height:1100px;
+	font-family: arial;
+	color: white;
+	text-align: center;
+	font-size: 50px;
+	padding: 182px 55px 40px 55px;
+	
+}
+p1 {
+	font-family: arial ;
+	color: white;
+	font-size: 20px;
+	padding-bottom: 38px;
+	padding-left: 100px;
+	padding-right: 100px;
+
+}
+.third {
+	height:52px;
+	width:207px;
+	background-color: #1576B1;
+	border: #191E28 solid;
+	border-width: 8px;
+	text-align: center;
+	margin: 0 auto;
+
+}
+.smallwhitebox {
+	background-color: white;
+	margin: 0 auto;
+	height: 50px;
+	width:68px;
+	margin-top:215px;
+}
