@@ -2,6 +2,33 @@
 	background-color: #0C76B5;
 	height:50px;
 }
+.toprightbox{
+	background-color: #005A95;
+	width: 73px;
+	height:50px;
+	display:inline;
+	float:right;
+
+}
+.topleftsquare{
+	background-color: white;
+	height: 32px;
+	width: 32px;
+	display:inline;
+	float:left;
+	margin:8px;
+}
+
+.topleftrec {
+	background-color: white;
+	height:32px;
+	width:117px;
+	display:inline;
+	float:left;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
 .second  {
 	background-color: #273040;
 	height:1100px;
@@ -82,6 +109,14 @@ p1 {
 	margin-left: auto;
 	margin-right: auto;	
 
+}
+.greysquares{
+	background-color: #BAC7CE;
+	width:64px;
+	height:64px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
 }
 .sixth {
 	background-color: #E2ECF3 ;
