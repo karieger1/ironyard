@@ -94,5 +94,38 @@ p1 {
 	margin-left: auto;
 	margin-right: auto;
 	background-color: #0C76B5;
+}
+.bottom {
+	height:97px;
+	background-color: #000000;
+	text-align: center;
+	
+}
+.text {
+	padding-top: 12px;
+	font-family: Arial;
+	color: white;
+	padding-left: 140px;
+	padding-bottom: 42px;
+	
 
+}
+ul{
+	list-style-type: none;
+	float:left;
+
+
+}
+li {
+	float:left;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.lastwhitebox {
+width:134px;
+height:25px;
+background-color: white;
+margin-left: auto;
+margin-right: auto;
 }
