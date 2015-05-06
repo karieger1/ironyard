@@ -118,9 +118,15 @@
 }
 
 .fourth {
-
-	height:190px;
+	color:#273040;
+	font-size: 35px;
+	height:120px;
+	padding:20px;
+	padding-top: 50px;
 	background-color: #E2ECF3;
+	vertical-align: middle;
+	text-align: center;
+	
 }
 
 .fifth {
@@ -172,7 +178,9 @@
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 22px;
-	background-color: #BAC7CE;
+	color: #273040;
+	text-align: center;
+	font-size: 20px;
 }
 
 .fatgreyrec {
@@ -180,13 +188,17 @@
 	height:54px;
 	margin-left: auto;
 	margin-right: auto;
-	background-color: #BAC7CE;
+	color: #273040;
+	text-align: center;
+	font-size: 17px;
 
 }
 .sixth {
 	background-color: #E2ECF3 ;
 	height:172px;
-	padding-top: 125px;
+	text-align: center;
+	font-size: 50px;
+	padding-top: 20px;
 }
 .seventh {
 	height:50px;
@@ -194,9 +206,15 @@
 	margin-left: auto;
 	margin-right: auto;
 	background-color: #0C76B5;
+	margin-top: 35px;
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	line-height: 50px;
+	vertical-align: middle;
 }
 .bottom {
-	height:97px;
+	height:200px;
 	background-color: #000000;
 	text-align: center;
 	
@@ -220,14 +238,16 @@ li {
 	float:left;
 	padding-left: 10px;
 	padding-right: 10px;
+
 }
 
 .lastwhitebox {
-width:134px;
-height:25px;
+width:180px;
+height:40px;
 background-color: white;
 margin-left: auto;
 margin-right: auto;
+margin-top: 20px;
 }
 
 
