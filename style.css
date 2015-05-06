@@ -1,26 +1,28 @@
 .first {
 	background-color: #0C76B5;
-	height:50px;
+	height:60px;
 }
 .toprightbox{
 	background-color: #005A95;
-	width: 74px;
-	height:50px;
+	width: 90px;
+	height:60px;
 	display:inline;
 	float:right;
 	color: white;
 	line-height: 50px;
 	text-align: center;
 	vertical-align: middle;
+	font-size: 20px;
 
 }
 .topleftsquare{
-	background-color: white;
-	height: 32px;
-	width: 32px;
+	background-image: url("https://raw.githubusercontent.com/TIY-Austin-Front-End-Engineering/mobile-layout-2/master/images/logo.png");
+	background-size: 100% 100%;
+	height: 36px;
+	width: 36px;
 	display:inline;
 	float:left;
-	margin:8px;
+	margin:12px;
 }
 
 .topleftrec {
@@ -34,7 +36,7 @@
 	line-height: 32px;
 	text-align: center;
 	vertical-align: middle;
-	font-size: 25px;
+	font-size: 29px;
 	color: #78C3E4;
 }
 .topleftrec > span {
@@ -42,7 +44,9 @@
 }
 
 .second  {
-	background-color: #273040;
+	background-image: url("https://raw.githubusercontent.com/TIY-Austin-Front-End-Engineering/mobile-layout-2/master/images/crowd.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
 	height:1100px;
 	font-family: arial;
 	color: white;
