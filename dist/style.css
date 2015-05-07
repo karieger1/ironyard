@@ -13,7 +13,8 @@
 	text-align: center;
 	vertical-align: middle;
 	font-size: 20px;
-
+	border-left: solid black 2px;
+	border-bottom: solid black 2px;
 }
 .topleftsquare{
 	background-image: url("https://raw.githubusercontent.com/TIY-Austin-Front-End-Engineering/mobile-layout-2/master/images/logo.png");
@@ -148,6 +149,7 @@
 	vertical-align: middle;
 	text-align: center;
 
+
 	
 }
 
@@ -155,6 +157,8 @@
 	height:1590px;
 	background-color: #C7C9CE;
 	padding-bottom: 20px;
+	border: solid #C7C9CE 40px;
+
 }
 
 .firstwhitebox {
@@ -164,7 +168,7 @@
 	margin-right: auto;
 	margin-left: auto;
 	margin-bottom: 32px;
-	border-top:32px solid #C7C9CE;
+	border: solid black 2px;
 }
 .firstgreysquare {
 	background-color: #BAC7CE;
@@ -180,6 +184,7 @@
 	margin-right: auto;
 	margin-bottom: 16px;
 	margin-top:20px;
+
 }
 
 
@@ -191,7 +196,10 @@
 	margin-top:32px;
 	margin-left: auto;
 	margin-right: auto;	
-	border-top: solid white 20px;
+	padding-top: 20px;
+	border: solid black 2px;
+	
+	
 
 }
 .greysquare2{
